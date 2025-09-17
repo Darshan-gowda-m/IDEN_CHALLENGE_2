@@ -34,9 +34,6 @@ It includes:
 git clone https://github.com/Darshan-gowda-m/IDEN_CHALLENGE_2
 cd IDEN_CHALLENGE_2
 
-# Create a virtual environment
-python -m venv venv
-
 # Install dependencies
 pip install -r requirements.txt
 playwright install
