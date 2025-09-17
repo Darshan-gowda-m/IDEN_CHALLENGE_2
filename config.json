@@ -1,0 +1,11 @@
+{
+    "email": "darshangowdam077@gmail.com",
+    "password": "Darshan@3108",
+    "num_users": 50,
+    "num_groups":25,
+    "users_per_group": 2,
+    "headless": false,
+    "domain":"gmail.com",
+    "slow_mo": 50,
+    "timeout": 300000000
+}

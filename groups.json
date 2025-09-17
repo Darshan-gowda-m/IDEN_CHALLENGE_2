@@ -1,0 +1,293 @@
+[
+  {
+    "id": "750c2cb2-1ade-4a5d-8a3a-501d50996042",
+    "name": "group_bbjool",
+    "description": "Description for group_bbjool",
+    "members": [
+      "712020:f1626e7e-b270-4e02-81b8-46fdeb1a0e9a",
+      "712020:d59f3bad-5e78-4e04-8320-7a03fda63a9e",
+      "712020:28ae4a7b-91dd-453d-9529-0d14a32400f8",
+      "712020:40dbd14f-3568-462f-9740-400407f163ec"
+    ]
+  },
+  {
+    "id": "1795392c-357b-4403-a23c-76fee720a7f1",
+    "name": "group_cshvld",
+    "description": "Description for group_cshvld",
+    "members": [
+      "712020:2ee14104-e7f3-49b4-bf40-77faa3b342d9",
+      "712020:e8e04773-9174-4299-a190-54264734b996"
+    ]
+  },
+  {
+    "id": "53df68d7-d717-405f-b609-e0db5e1158ac",
+    "name": "group_ddtsrr",
+    "description": "Description for group_ddtsrr",
+    "members": [
+      "712020:db4aed6c-37ac-4bfa-a699-8b013aa7225a",
+      "712020:eaac459a-57a5-4b57-8961-8bd37674b28e",
+      "712020:28ae4a7b-91dd-453d-9529-0d14a32400f8",
+      "712020:1a78ebbf-c904-4b58-9ffc-51fc0d83914d",
+      "712020:88970493-d1d6-4749-81fa-978544b16464",
+      "712020:50b4f0a2-95e0-4d73-8c8e-8c7c2c6defcd",
+      "712020:953a86e2-05ed-4c78-9a10-93320123217b"
+    ]
+  },
+  {
+    "id": "b4269fe4-939b-433c-b7f2-9e4b56d0aedc",
+    "name": "group_dfhjoa",
+    "description": "Description for group_dfhjoa",
+    "members": [
+      "712020:a9c46f59-c8d6-4f46-baa7-3262e1f6f9f2",
+      "712020:f707b5eb-2524-4dd0-a93a-b193aa7e91b0",
+      "712020:953a86e2-05ed-4c78-9a10-93320123217b",
+      "712020:781c0234-4e86-4b3c-b935-f658e7c446cc",
+      "712020:290740c9-0df6-42ee-813f-0f2d90c4af33"
+    ]
+  },
+  {
+    "id": "f99d1772-ef08-4f9a-84fc-d49e234714ef",
+    "name": "group_dkzkem",
+    "description": "Description for group_dkzkem",
+    "members": [
+      "712020:2ee14104-e7f3-49b4-bf40-77faa3b342d9",
+      "712020:40dbd14f-3568-462f-9740-400407f163ec",
+      "712020:88970493-d1d6-4749-81fa-978544b16464",
+      "712020:e8e04773-9174-4299-a190-54264734b996",
+      "712020:6e6786b4-a345-423d-81ed-8bf81e506158",
+      "712020:44f33d23-7247-4fe5-bbcf-2d6c56a8889d"
+    ]
+  },
+  {
+    "id": "d535ad60-41fd-4305-91e4-62e72480d864",
+    "name": "group_dymrih",
+    "description": "Description for group_dymrih",
+    "members": [
+      "712020:976f4b50-2e49-4d36-9bc2-f859d2417ada",
+      "712020:f0d19777-7f28-4a6a-87f2-0681a2e00885",
+      "712020:573b0afb-a876-4d12-89a1-101684e04800"
+    ]
+  },
+  {
+    "id": "50e16ea9-4726-4c03-b982-9b44503428ce",
+    "name": "group_elkihn",
+    "description": "Description for group_elkihn",
+    "members": [
+      "712020:8be02f34-20a7-4e27-ba0a-c412e7f929e7",
+      "712020:56a03657-542c-45ab-94d1-9f42f6a9ae33",
+      "712020:ff85a5b0-3643-4915-830f-2c9643d30811",
+      "712020:9bbbda6a-9f96-46a2-a919-68464a2755b2"
+    ]
+  },
+  {
+    "id": "02484dc9-7b63-453f-a015-819ead9ebc75",
+    "name": "group_enwamm",
+    "description": "Description for group_enwamm",
+    "members": [
+      "712020:9529700b-7d37-4042-8597-2b84582cf000",
+      "712020:e1d1e962-7e23-4f93-a126-039203ca8073",
+      "712020:0e154aae-9bb7-45bc-9f09-5a2cee97ee91",
+      "712020:290740c9-0df6-42ee-813f-0f2d90c4af33"
+    ]
+  },
+  {
+    "id": "275e5de4-58d7-4400-a4d2-55fdf05ffdc1",
+    "name": "group_ghkjqo",
+    "description": "Description for group_ghkjqo",
+    "members": [
+      "712020:976f4b50-2e49-4d36-9bc2-f859d2417ada",
+      "712020:a7770265-c1cc-4d94-a13c-5436587147ee",
+      "712020:8d3a0dbe-443e-48b1-b3a7-dc333c5527aa"
+    ]
+  },
+  {
+    "id": "2117ed34-16ea-4928-acca-07ac90584f37",
+    "name": "group_gkvfan",
+    "description": "Description for group_gkvfan",
+    "members": [
+      "712020:56a03657-542c-45ab-94d1-9f42f6a9ae33",
+      "712020:e97fa69b-796d-448f-8386-01199c15c4f0",
+      "712020:0e154aae-9bb7-45bc-9f09-5a2cee97ee91"
+    ]
+  },
+  {
+    "id": "50e95aad-6e59-44b6-8f91-e0ccbe3998e6",
+    "name": "group_gwkagz",
+    "description": "Description for group_gwkagz",
+    "members": [
+      "712020:31e6fb28-b3aa-4ee9-a969-0740c1e45006",
+      "712020:62e57fb8-788b-4645-a2cc-7b2bd024c5bc",
+      "712020:52fb39ca-314a-418b-aa45-bc2459b02d66",
+      "712020:f707b5eb-2524-4dd0-a93a-b193aa7e91b0"
+    ]
+  },
+  {
+    "id": "aca2702a-5ab9-4873-b235-ea40997b875e",
+    "name": "group_hejmcf",
+    "description": "Description for group_hejmcf",
+    "members": [
+      "712020:9529700b-7d37-4042-8597-2b84582cf000",
+      "712020:e1d1e962-7e23-4f93-a126-039203ca8073"
+    ]
+  },
+  {
+    "id": "3f8285c5-0322-4672-95fe-fef93b5077c7",
+    "name": "group_jgdymh",
+    "description": "Description for group_jgdymh",
+    "members": [
+      "712020:28941efa-03cc-4941-af47-2629bb6fc93b",
+      "712020:ff85a5b0-3643-4915-830f-2c9643d30811"
+    ]
+  },
+  {
+    "id": "c182e8a4-c937-4761-bb20-0d9ea65eca39",
+    "name": "group_kepnva",
+    "description": "Description for group_kepnva",
+    "members": [
+      "712020:eaac459a-57a5-4b57-8961-8bd37674b28e",
+      "712020:6ba10cc6-8c55-4c11-8d04-8b384386a86f",
+      "712020:573b0afb-a876-4d12-89a1-101684e04800"
+    ]
+  },
+  {
+    "id": "04a6aa1d-662c-4ce3-b7b4-36a20d975eb4",
+    "name": "group_kmwanz",
+    "description": "Description for group_kmwanz",
+    "members": [
+      "712020:d15ba152-37a5-4417-836b-c3d07c117e08",
+      "712020:62e57fb8-788b-4645-a2cc-7b2bd024c5bc",
+      "712020:867cad19-25af-4d1d-86e1-202f2077f826",
+      "712020:eee0d0fb-4173-4d65-b614-d3b53e4b3985",
+      "712020:fdf86089-342d-4991-bbf8-6cc536421c2e",
+      "712020:50b4f0a2-95e0-4d73-8c8e-8c7c2c6defcd",
+      "712020:66f327bd-2c24-4d62-ac1b-035873b347dc"
+    ]
+  },
+  {
+    "id": "2c0afbc9-fcc9-4131-afb8-ca52ed43c432",
+    "name": "group_nmfmpb",
+    "description": "Description for group_nmfmpb",
+    "members": [
+      "712020:d15ba152-37a5-4417-836b-c3d07c117e08",
+      "712020:a7770265-c1cc-4d94-a13c-5436587147ee",
+      "712020:743c05f4-fc3d-402b-ac79-6c4339e4b502",
+      "712020:f0d19777-7f28-4a6a-87f2-0681a2e00885",
+      "712020:6e6786b4-a345-423d-81ed-8bf81e506158"
+    ]
+  },
+  {
+    "id": "08df920b-60cb-48cf-86f7-1652d8a2be0d",
+    "name": "group_nyxhlc",
+    "description": "Description for group_nyxhlc",
+    "members": [
+      "712020:db4aed6c-37ac-4bfa-a699-8b013aa7225a",
+      "712020:e64f0c92-f701-441e-bcec-e5dd5776e7ae",
+      "712020:31e6fb28-b3aa-4ee9-a969-0740c1e45006",
+      "712020:f1d9afc0-ca07-456f-927f-209f9af6678a",
+      "712020:6665de78-34d5-4fba-be6f-8afa18a0206a"
+    ]
+  },
+  {
+    "id": "c5a45d52-5991-449b-9991-ea44b35e41bc",
+    "name": "group_oxkwvs",
+    "description": "Description for group_oxkwvs",
+    "members": [
+      "712020:d59f3bad-5e78-4e04-8320-7a03fda63a9e",
+      "712020:1a78ebbf-c904-4b58-9ffc-51fc0d83914d",
+      "712020:e97fa69b-796d-448f-8386-01199c15c4f0",
+      "712020:6ba10cc6-8c55-4c11-8d04-8b384386a86f"
+    ]
+  },
+  {
+    "id": "5f465bd6-a96d-46fc-bcbb-bfd1b59fb70a",
+    "name": "group_sylhij",
+    "description": "Description for group_sylhij",
+    "members": [
+      "712020:aa9fa5be-7ac7-489a-9d1e-25bcfd47e0c2",
+      "712020:7ea5103c-081e-4bff-907b-7234bebd4550",
+      "712020:44f33d23-7247-4fe5-bbcf-2d6c56a8889d"
+    ]
+  },
+  {
+    "id": "d8421cc3-d9f1-4c54-ad8b-1a11cc495612",
+    "name": "group_tkebvl",
+    "description": "Description for group_tkebvl",
+    "members": [
+      "712020:52fb39ca-314a-418b-aa45-bc2459b02d66",
+      "712020:ae978b2c-1515-4ac1-b42a-02758dae7b95",
+      "712020:ea05bc3a-c17c-4098-83bd-55f84d615abd"
+    ]
+  },
+  {
+    "id": "e5349d44-f101-4710-8e03-deab78c94d2b",
+    "name": "group_tleevb",
+    "description": "Description for group_tleevb",
+    "members": [
+      "712020:1d4b5752-eb4a-4542-a406-654fd85e2445",
+      "712020:cdc4c2aa-6d90-4d32-8bd9-d09e4d76453c",
+      "712020:9bbbda6a-9f96-46a2-a919-68464a2755b2",
+      "712020:eee0d0fb-4173-4d65-b614-d3b53e4b3985",
+      "712020:743c05f4-fc3d-402b-ac79-6c4339e4b502",
+      "712020:8d3a0dbe-443e-48b1-b3a7-dc333c5527aa"
+    ]
+  },
+  {
+    "id": "2473ec51-aac1-4879-8565-5294bb5e5d7c",
+    "name": "group_ttduoc",
+    "description": "Description for group_ttduoc",
+    "members": [
+      "712020:ea05bc3a-c17c-4098-83bd-55f84d615abd",
+      "712020:a9c46f59-c8d6-4f46-baa7-3262e1f6f9f2"
+    ]
+  },
+  {
+    "id": "1aa142d4-5333-4143-a7aa-6ddbd93b414b",
+    "name": "group_utwbty",
+    "description": "Description for group_utwbty",
+    "members": [
+      "712020:f1626e7e-b270-4e02-81b8-46fdeb1a0e9a",
+      "712020:fdf86089-342d-4991-bbf8-6cc536421c2e"
+    ]
+  },
+  {
+    "id": "771c8422-3a1f-473f-af7f-e245280283a2",
+    "name": "group_vjbjrf",
+    "description": "Description for group_vjbjrf",
+    "members": [
+      "712020:e64f0c92-f701-441e-bcec-e5dd5776e7ae",
+      "712020:ae978b2c-1515-4ac1-b42a-02758dae7b95",
+      "712020:7ea5103c-081e-4bff-907b-7234bebd4550",
+      "712020:e162be4b-c945-4204-b321-242eb4b9e120",
+      "712020:6665de78-34d5-4fba-be6f-8afa18a0206a"
+    ]
+  },
+  {
+    "id": "469b58ed-7be2-4599-b3ac-6d8f63914547",
+    "name": "group_wnrmjv",
+    "description": "Description for group_wnrmjv",
+    "members": [
+      "712020:867cad19-25af-4d1d-86e1-202f2077f826",
+      "712020:cdc4c2aa-6d90-4d32-8bd9-d09e4d76453c",
+      "712020:f1d9afc0-ca07-456f-927f-209f9af6678a",
+      "712020:66f327bd-2c24-4d62-ac1b-035873b347dc",
+      "712020:28941efa-03cc-4941-af47-2629bb6fc93b",
+      "712020:781c0234-4e86-4b3c-b935-f658e7c446cc",
+      "712020:8be02f34-20a7-4e27-ba0a-c412e7f929e7"
+    ]
+  },
+  {
+    "id": "6daacf63-20f2-4c0b-9220-acf40f97d7c1",
+    "name": "group_zbljvx",
+    "description": "Description for group_zbljvx",
+    "members": [
+      "712020:aa9fa5be-7ac7-489a-9d1e-25bcfd47e0c2",
+      "712020:1d4b5752-eb4a-4542-a406-654fd85e2445"
+    ]
+  },
+  {
+    "id": "99eb665e-5de5-4186-a82b-9875388afae3",
+    "name": "org-admins",
+    "description": "Grants access to administer org-level settings, users, and groups, and to view billing",
+    "members": []
+  }
+]
